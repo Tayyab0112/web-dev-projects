@@ -35,8 +35,3 @@ var timerint = setInterval(function(){
 runtimer();
 makebubble();
 getnewhit();
-// increasescore();
-// increasescore();
-// increasescore();
-// increasescore();
-// increasescore();
